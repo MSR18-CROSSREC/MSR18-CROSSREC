@@ -13,7 +13,7 @@ This folder contains the source code implementation of CrossRec. To run the code
 
 5. In Runner.java, there is an example to execute one round of validation for fold-10, you can run the code directly to see how it works.
 
-6. You can perform the same experiment with other folds by changing the corresponding parameters. File ListOfFolds.txt contains all the necessary input information for all folds.
+6. You can perform the same experiment with other folds by changing the corresponding parameters. File ListOfFolds.txt provides you with a full list of the input information for all folds.
 
 
 
