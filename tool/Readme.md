@@ -6,9 +6,12 @@ This folder contains the source code implementation of CrossRec. To run the code
 
 3. Unzip ExperimentData.zip to /home/user/Evaluation/Dataset1200/CrossRec/
 
-4. Create ten sub-folders: Round1, Round2, ... Round10
+4. Create ten folders: Round1, Round2, ... Round10. For each folder Roundi, you create the following sub-folders:
 
-5. In Runner.java, there is an example to execute one round of validation for fold-10. You can run the code.
+  - GroundTruth
+  - Recommendations
+
+5. In Runner.java, there is an example to execute one round of validation for fold-10.
 
 6. You can perform the same experiment with other folds by changing the corresponding parameters. File ListOfFolds.txt contains all the necessary input information for all folds.
 
