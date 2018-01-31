@@ -45,7 +45,9 @@ public class Runner {
 	
 	private String srcDir;	
 	private String simDir;
-	private String subFolder;
+	private static String subFolder;
+	//private static String subFolder = "Round10";
+	
 		
 	public Runner(){
 		
@@ -54,8 +56,9 @@ public class Runner {
 	public void loadConfigurations(){		
 		Properties prop = new Properties();				
 		try {
-			prop.load(new FileInputStream("evaluation.properties"));		
+			prop.load(new FileInputStream("evaluation.properties"));
 			this.srcDir=prop.getProperty("sourceDirectory");
+			this.subFolder = prop.getProperty("subFolder");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -78,9 +81,6 @@ public class Runner {
 				
 		int testingStartPos = 1081;
 		int testingEndPos = 1200;
-		subFolder = "Round1";
-		
-		//subFolder = "Round10";
 		this.simDir = this.srcDir + subFolder + "/";
 		
 		SimilarityCalculator calculator = new SimilarityCalculator(this.srcDir,this.subFolder,
