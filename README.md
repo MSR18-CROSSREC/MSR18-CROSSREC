@@ -1,4 +1,4 @@
-This repository has been setup following the call by MSR for reproducibility. We made publicly available our tool as well as all the data needed for the experiments that have been included in the following paper:
+This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following paper:
 
 "A collaborative-filtering approach to provide OSS developers with third-party library recommendations"
 
