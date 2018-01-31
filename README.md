@@ -4,6 +4,7 @@ This repository contains the source code implementation of CrossRec, the dataset
 
 submitted to the 15th International Conference on Mining Software Repositories (MSR 2018)
 
+CrossRec is a framework that exploits cross projects relationships in open source software repositories to build a recommender System.
 
 
 
