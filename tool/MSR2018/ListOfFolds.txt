@@ -1,0 +1,113 @@
+		int trainingStartPos1 = 121;
+		int trainingEndPos1 = 1080;
+		int trainingStartPos2 = 0;
+		int trainingEndPos2 = 0;
+				
+		int testingStartPos = 1;
+		int testingEndPos = 120;
+		
+		subFolder = "Round1";
+===============================================================
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 120;
+		int trainingStartPos2 = 241;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 121;
+		int testingEndPos = 240;
+		
+		subFolder = "Round2";
+===============================================================		
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 240;
+		int trainingStartPos2 = 361;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 241;
+		int testingEndPos = 360;
+		
+		subFolder = "Round3";
+
+===============================================================		
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 360;
+		int trainingStartPos2 = 481;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 361;
+		int testingEndPos = 480;
+		
+		subFolder = "Round4";
+
+===============================================================		
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 480;
+		int trainingStartPos2 = 601;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 481;
+		int testingEndPos = 600;
+		
+		subFolder = "Round5";
+===============================================================		
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 600;
+		int trainingStartPos2 = 721;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 601;
+		int testingEndPos = 720;
+		
+		subFolder = "Round6";
+
+===============================================================
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 720;
+		int trainingStartPos2 = 841;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 721;
+		int testingEndPos = 840;
+		
+		subFolder = "Round7";
+===============================================================
+
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 840;
+		int trainingStartPos2 = 961;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 841;
+		int testingEndPos = 960;
+		
+		subFolder = "Round8";
+===============================================================
+
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 960;
+		int trainingStartPos2 = 1081;
+		int trainingEndPos2 = 1200;
+				
+		int testingStartPos = 961;
+		int testingEndPos = 1080;
+		
+		subFolder = "Round9";	
+
+===============================================================
+		int trainingStartPos1 = 1;
+		int trainingEndPos1 = 1080;
+		int trainingStartPos2 = 0;
+		int trainingEndPos2 = 0;
+				
+		int testingStartPos = 1081;
+		int testingEndPos = 1200;
+		subFolder = "Round10";
+
+===============================================================
+
