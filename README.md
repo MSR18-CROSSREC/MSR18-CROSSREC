@@ -8,11 +8,13 @@ CrossRec is a framework that exploits cross projects relationships in open sourc
 
 CrossRec has been evaluated by considering different quality metrics and a dataset consisting of 1.200 GitHub Java projects. The performed evaluation demonstrated that our approach outperforms LibRec, a well-known system for library recommendation with regards to various quality indicators. To the best of our knowledge, our work is the first one that employs graphs to represent the relationships among software projects so as to effectively compute similarity and eventually to recommend libraries. 
 
+This repository has been setup following the call by MSR for reproducibility. We made publicly available our tool as well as all the data needed for the experiments that have been included in the paper.
+
 There are the following folders:
 
 1. experimental\_results contains all the results obtained from the experiments with LibRec and CrossRec.
 
-2. tool: To aim for reproducibility, we published the full source code implementation for CrossRec. Following the instruction provided in the folder, you can setup and run the source code using the dataset mentioned in our paper.
+2. tool: Following the instruction provided in the folder, you can setup and run the source code using the dataset mentioned in the paper.
 
 
 
