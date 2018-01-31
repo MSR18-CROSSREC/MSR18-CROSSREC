@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.robolectric:robolectric	1
+#DEP#com.android.support:appcompat-v7	1
+#DEP#org.mockito:mockito-core	1
+#DEP#com.squareup.picasso:picasso	1

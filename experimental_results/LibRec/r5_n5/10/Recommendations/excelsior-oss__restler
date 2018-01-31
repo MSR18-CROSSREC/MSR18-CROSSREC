@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.jetbrains.kotlin:kotlin-test	1
+#DEP#org.jetbrains.kotlin:kotlin-stdlib	1
+#DEP#org.jetbrains.kotlin:kotlin-reflect	1
+#DEP#joda-time:joda-time	1

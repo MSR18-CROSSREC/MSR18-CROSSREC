@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.spockframework:spock-core	1
+#DEP#cglib:cglib-nodep	1
+#DEP#org.codehaus.groovy:groovy-all	1
+#DEP#org.springframework:spring-core	1

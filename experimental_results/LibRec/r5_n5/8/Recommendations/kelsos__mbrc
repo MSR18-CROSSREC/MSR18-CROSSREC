@@ -1,0 +1,5 @@
+#DEP#org.jetbrains.kotlin:kotlin-stdlib	1
+#DEP#io.reactivex:rxjava	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.threeten:threetenbp	1
+#DEP#org.springframework:spring-core	1

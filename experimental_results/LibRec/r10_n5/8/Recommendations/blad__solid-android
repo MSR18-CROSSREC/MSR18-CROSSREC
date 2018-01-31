@@ -1,0 +1,10 @@
+#DEP#com.android.support:support-v4	1
+#DEP#com.squareup.dagger:dagger	1
+#DEP#com.android.support:recyclerview-v7	1
+#DEP#com.android.support:support-v13	1
+#DEP#com.squareup.dagger:dagger-compiler	1
+#DEP#com.jakewharton:butterknife	1
+#DEP#com.android.support:cardview-v7	1
+#DEP#com.android.support:design	1
+#DEP#com.github.LGDeveloper:QCircle-Design-Template	1
+#DEP#org.mortbay.jetty:jetty	1

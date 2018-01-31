@@ -1,0 +1,10 @@
+#DEP#commons-logging:commons-logging	1
+#DEP#com.google.code.gson:gson	1
+#DEP#log4j:log4j	1
+#DEP#junit:junit	1
+#DEP#xom:xom	1
+#DEP#net.sf.json-lib:json-lib	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#commons-lang:commons-lang	1
+#DEP#rome:rome	1
+#DEP#commons-beanutils:commons-beanutils	1

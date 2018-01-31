@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-entitymanager	1
+#DEP#org.springframework:spring-beans	1
+#DEP#com.querydsl:querydsl-apt	1
+#DEP#joda-time:joda-time	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#io.searchbox:jest	1
+#DEP#org.elasticsearch:elasticsearch	1
+#DEP#log4j:log4j	1
+#DEP#org.eclipse.jetty:org.eclipse.jetty	1

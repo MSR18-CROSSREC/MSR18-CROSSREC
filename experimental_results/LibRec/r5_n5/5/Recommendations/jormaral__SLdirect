@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.springframework:org.springframework.context	1
+#DEP#log4j:log4j	1
+#DEP#org.springframework:spring-context	1
+#DEP#org.json:json	1

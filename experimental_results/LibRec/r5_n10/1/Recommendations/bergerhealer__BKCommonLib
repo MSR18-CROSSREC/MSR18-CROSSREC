@@ -1,0 +1,5 @@
+#DEP#io.netty:netty-all	1
+#DEP#com.google.guava:guava	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#junit:junit	1
+#DEP#commons-codec:commons-codec	1

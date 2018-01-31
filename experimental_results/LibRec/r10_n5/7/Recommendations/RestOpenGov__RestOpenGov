@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#commons-io:commons-io	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#log4j:log4j	1
+#DEP#mysql:mysql-connector-java	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#javax.mail:mail	1
+#DEP#com.restfb:restfb	1
+#DEP#commons-dbcp:commons-dbcp	1
+#DEP#javax.inject:javax.inject	1

@@ -1,0 +1,5 @@
+#DEP#javax.servlet:servlet-api	1
+#DEP#com.google.appengine:appengine-api-1.0-sdk	1
+#DEP#com.google.appengine:appengine-api-stubs	1
+#DEP#com.google.appengine:appengine-testing	1
+#DEP#junit:junit	1

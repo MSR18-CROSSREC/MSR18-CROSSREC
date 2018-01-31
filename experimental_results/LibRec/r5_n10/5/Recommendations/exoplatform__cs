@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#org.exoplatform.kernel:exo.kernel.container	1
+#DEP#org.codehaus.groovy:groovy-all	1
+#DEP#org.hsqldb:hsqldb	1

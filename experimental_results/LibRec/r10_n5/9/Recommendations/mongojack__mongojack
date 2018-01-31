@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.bouncycastle:bcprov-jdk15on	1
+#DEP#org.hamcrest:hamcrest-junit	1
+#DEP#org.mongodb:mongodb-driver	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#com.google.guava:guava	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#de.flapdoodle.embed:de.flapdoodle.embed.mongo	1
+#DEP#org.apache.mina:mina-integration-beans	1
+#DEP#org.mockito:mockito-core	1

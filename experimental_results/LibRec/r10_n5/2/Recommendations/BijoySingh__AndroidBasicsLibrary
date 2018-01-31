@@ -1,0 +1,10 @@
+#DEP#com.mcxiaoke.volley:library	1
+#DEP#com.android.support:appcompat-v7	1
+#DEP#com.squareup.okhttp:okhttp	1
+#DEP#com.squareup.picasso:picasso	1
+#DEP#junit:junit	1
+#DEP#com.android.support:recyclerview-v7	1
+#DEP#com.nostra13.universalimageloader:universal-image-loader	1
+#DEP#com.android.volley:volley	1
+#DEP#org.robolectric:robolectric	1
+#DEP#com.jakewharton:butterknife	1

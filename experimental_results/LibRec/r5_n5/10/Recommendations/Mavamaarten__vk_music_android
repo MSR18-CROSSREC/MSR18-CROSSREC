@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.android.support:design	1
+#DEP#com.android.support:appcompat-v7	1
+#DEP#javax.annotation:javax.annotation-api	1
+#DEP#frankiesardo:icepick-processor	1

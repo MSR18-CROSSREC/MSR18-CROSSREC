@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.mockito:mockito-core	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#io.prometheus:simpleclient	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#io.dropwizard.metrics:metrics-graphite	1
+#DEP#org.cthul:cthul-matchers	1
+#DEP#org.springframework:spring-context-support	1
+#DEP#io.prometheus:simpleclient_dropwizard	1
+#DEP#io.dropwizard.metrics:metrics-core	1

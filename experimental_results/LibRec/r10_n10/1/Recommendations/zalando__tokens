@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#commons-io:commons-io	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.mockito:mockito-core	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#org.assertj:assertj-core	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#com.h2database:h2	1
+#DEP#org.springframework:spring-core	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.springframework.boot:spring-boot-starter-web	1
+#DEP#org.springframework.boot:spring-boot-starter-security	1
+#DEP#org.springframework.boot:spring-boot-starter-data-jpa	1
+#DEP#com.google.guava:guava	1

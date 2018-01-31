@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.lwjgl.lwjgl:lwjgl_util	1
+#DEP#com.google.guava:guava	1
+#DEP#org.lwjgl.lwjgl:lwjgl	1
+#DEP#org.lwjgl.lwjgl:lwjgl-platform	1

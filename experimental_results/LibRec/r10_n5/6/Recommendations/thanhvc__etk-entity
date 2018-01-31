@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#javolution:javolution	1
+#DEP#commons-lang:commons-lang	1
+#DEP#org.hibernate:hibernate-core	1
+#DEP#org.slf4j:slf4j-simple	1
+#DEP#org.hibernate:hibernate-c3p0	1
+#DEP#org.hsqldb:hsqldb	1
+#DEP#org.hibernate:hibernate-ehcache	1
+#DEP#commons-io:commons-io	1
+#DEP#org.codehaus.jettison:jettison	1

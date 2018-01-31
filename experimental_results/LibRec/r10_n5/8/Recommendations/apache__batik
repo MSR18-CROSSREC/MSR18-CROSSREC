@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.apache.xmlgraphics:batik-xml	1
+#DEP#xalan:xalan	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.apache.xmlgraphics:batik-svggen	1
+#DEP#commons-logging:commons-logging	1
+#DEP#commons-collections:commons-collections	1
+#DEP#org.apache.xmlgraphics:batik-util	1
+#DEP#commons-beanutils:commons-beanutils	1
+#DEP#org.apache.xmlgraphics:batik-dom	1

@@ -1,0 +1,5 @@
+#DEP#com.google.guava:guava	1
+#DEP#co.aikar:minecraft-timings	1
+#DEP#junit:junit	1
+#DEP#com.comphenix.protocol:ProtocolLib-API	1
+#DEP#org.mockito:mockito-all	1

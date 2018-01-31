@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1
+#DEP#colt:colt	1
+#DEP#com.thoughtworks.xstream:xstream	1
+#DEP#org.testng:testng	1
+#DEP#org.apache.commons:commons-math3	1
+#DEP#commons-io:commons-io	1
+#DEP#org.apache.lucene:lucene-core	1
+#DEP#edu.mayo.mprc:daemon	1
+#DEP#edu.mayo.mprc:peaklist	1
+#DEP#commons-httpclient:commons-httpclient	1

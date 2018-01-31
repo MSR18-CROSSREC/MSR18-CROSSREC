@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#wsdl4j:wsdl4j	1
+#DEP#org.hibernate:org.hibernate	1
+#DEP#ch.qos.logback:ch.qos.logback	1
+#DEP#io.dropwizard.metrics:io.dropwizard.metrics	1
+#DEP#org.apache.activemq:org.apache.activemq	1
+#DEP#commons-dbcp:commons-dbcp	1
+#DEP#org.eclipse.jetty:org.eclipse.jetty	1
+#DEP#org.apache.httpcomponents:org.apache.httpcomponents	1

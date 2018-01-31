@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1
+#DEP#junit:junit	1
+#DEP#org.osgi:org.osgi.core	1
+#DEP#org.springframework:spring-context	1
+#DEP#org.apache.felix:org.apache.felix.framework	1
+#DEP#org.slf4j:slf4j-simple	1
+#DEP#commons-pool:commons-pool	1
+#DEP#org.easymock:easymock	1
+#DEP#commons-dbcp:commons-dbcp	1
+#DEP#log4j:log4j	1

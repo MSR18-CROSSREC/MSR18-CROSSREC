@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#commons-logging:commons-logging	1
+#DEP#org.slf4j:jcl-over-slf4j	1
+#DEP#commons-io:commons-io	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#org.easymock:easymockclassextension	1
+#DEP#javax.inject:javax.inject	1
+#DEP#jfreechart:jfreechart	1

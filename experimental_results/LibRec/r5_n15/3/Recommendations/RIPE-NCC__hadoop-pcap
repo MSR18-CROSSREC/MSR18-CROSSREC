@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.apache.hive:hive-exec	1
+#DEP#org.apache.hadoop:hadoop-core	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.hive:hive-metastore	1

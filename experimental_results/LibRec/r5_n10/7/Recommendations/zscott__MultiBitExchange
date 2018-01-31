@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#commons-io:commons-io	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#commons-dbcp:commons-dbcp	1

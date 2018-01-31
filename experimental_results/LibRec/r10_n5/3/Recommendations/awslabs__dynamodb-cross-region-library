@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#org.powermock:powermock-module-junit4	1
+#DEP#com.amazonaws:amazon-kinesis-client	1
+#DEP#org.powermock:powermock-api-mockito	1
+#DEP#com.amazonaws:aws-java-sdk-kinesis	1
+#DEP#org.mockito:mockito-core	1
+#DEP#com.amazonaws:aws-java-sdk-dynamodb	1
+#DEP#com.amazon.emr:hive1.2-shims	1
+#DEP#org.apache.hadoop:hadoop-yarn-server-tests	1

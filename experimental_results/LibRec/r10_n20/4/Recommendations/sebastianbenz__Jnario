@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.ow2.asm:asm	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.maven:maven-plugin-api	1
+#DEP#commons-io:commons-io	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.codehaus.groovy:groovy-all	1
+#DEP#org.ow2.asm:asm-util	1

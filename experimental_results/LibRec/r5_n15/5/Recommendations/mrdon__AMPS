@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#net.sf.json-lib:json-lib	1
+#DEP#commons-logging:commons-logging	1
+#DEP#org.apache.httpcomponents:httpcore	1
+#DEP#org.apache.httpcomponents:httpclient	1

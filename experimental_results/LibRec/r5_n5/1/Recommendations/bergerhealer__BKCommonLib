@@ -1,0 +1,5 @@
+#DEP#io.netty:netty-all	1
+#DEP#mysql:mysql-connector-java	1
+#DEP#redis.clients:jedis	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#com.comphenix.protocol:ProtocolLib-API	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.eclipse.jetty:jetty-http	1
+#DEP#org.eclipse.jetty:jetty-servlets	1
+#DEP#org.eclipse.jetty:jetty-server	1
+#DEP#org.eclipse.jetty:jetty-webapp	1
+#DEP#org.eclipse.jetty:jetty-proxy	1
+#DEP#org.eclipse.jetty:jetty-client	1
+#DEP#javax.servlet:javax.servlet-api	1
+#DEP#org.eclipse.jetty.websocket:websocket-client	1

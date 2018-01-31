@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#io.reactivex.rxjava2:rxjava	1
+#DEP#io.reactivex.rxjava2:rxandroid	1
+#DEP#io.vertx:vertx-core	1
+#DEP#org.mockito:mockito-core	1

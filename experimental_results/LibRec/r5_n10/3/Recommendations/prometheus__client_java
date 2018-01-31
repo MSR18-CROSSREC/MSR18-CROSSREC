@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#io.vertx:vertx-core	1
+#DEP#org.springframework:spring-context-support	1

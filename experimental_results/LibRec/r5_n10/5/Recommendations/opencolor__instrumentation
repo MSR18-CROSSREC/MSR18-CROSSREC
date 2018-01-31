@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.netbeans.api:org-netbeans-api-annotations-common	1
+#DEP#log4j:log4j	1
+#DEP#org.netbeans.api:org-openide-awt	1
+#DEP#org.netbeans.api:org-openide-util	1

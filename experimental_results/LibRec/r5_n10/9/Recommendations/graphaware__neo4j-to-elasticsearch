@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.tomcat:org.apache.tomcat	1
+#DEP#org.jolokia:org.jolokia	1
+#DEP#javax.cache:javax.cache	1

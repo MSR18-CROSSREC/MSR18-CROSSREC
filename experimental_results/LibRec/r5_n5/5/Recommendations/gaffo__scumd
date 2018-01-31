@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.apache.sshd:sshd-core	1
+#DEP#com.jcraft:jsch	1
+#DEP#org.powermock:powermock-module-junit4	1

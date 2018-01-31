@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#commons-lang:commons-lang	1
+#DEP#org.apache.httpcomponents:httpclient	1
+#DEP#org.webjars:jquery	1
+#DEP#commons-io:commons-io	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#org.apache.commons:commons-exec	1
+#DEP#javax.servlet.jsp:jsp-api	1
+#DEP#org.apache.maven:maven-plugin-api	1
+#DEP#org.apache.maven:maven-artifact	1

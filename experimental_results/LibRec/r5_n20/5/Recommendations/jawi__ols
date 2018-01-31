@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.ops4j.pax.exam:pax-exam-junit4	1
+#DEP#org.osgi:org.osgi.core	1
+#DEP#com.google.guava:guava	1

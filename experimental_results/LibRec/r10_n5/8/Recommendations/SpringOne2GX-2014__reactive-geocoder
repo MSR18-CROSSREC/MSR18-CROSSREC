@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#io.dropwizard.metrics:io.dropwizard.metrics	1
+#DEP#org.hornetq:org.hornetq	1
+#DEP#org.springframework.cloud:org.springframework.cloud	1
+#DEP#org.springframework.data:org.springframework.data	1
+#DEP#com.github.mxab.thymeleaf.extras:com.github.mxab.thymeleaf.extras	1
+#DEP#com.googlecode.json-simple:com.googlecode.json-simple	1
+#DEP#ch.qos.logback:ch.qos.logback	1
+#DEP#com.h2database:com.h2database	1
+#DEP#org.apache.derby:org.apache.derby	1

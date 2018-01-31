@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.springframework.security:spring-security-config	1
+#DEP#org.springframework.social:spring-social-web	1
+#DEP#log4j:log4j	1
+#DEP#org.springframework:spring-context	1

@@ -1,0 +1,5 @@
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#junit:junit	1
+#DEP#commons-io:commons-io	1
+#DEP#org.pac4j:pac4j-oidc	1
+#DEP#org.pac4j:pac4j-cas	1

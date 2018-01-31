@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#commons-lang:commons-lang	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.hadoop:hadoop-core	1
+#DEP#org.slf4j:slf4j-api	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#commons-lang:commons-lang	1
+#DEP#com.google.android:android	1
+#DEP#com.google.android:support-v4	1

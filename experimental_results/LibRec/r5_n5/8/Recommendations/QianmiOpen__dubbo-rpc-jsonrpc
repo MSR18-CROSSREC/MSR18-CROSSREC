@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#javax.portlet:portlet-api	1
+#DEP#commons-dbcp:commons-dbcp	1
+#DEP#commons-beanutils:commons-beanutils	1
+#DEP#org.springframework:spring-webmvc	1

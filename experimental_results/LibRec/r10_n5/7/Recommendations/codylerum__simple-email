@@ -1,0 +1,10 @@
+#DEP#org.subethamail:subethasmtp	1
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#javax.mail:mail	1
+#DEP#org.hsqldb:hsqldb	1
+#DEP#log4j:log4j	1
+#DEP#javax.servlet:javax.servlet-api	1
+#DEP#org.slf4j:slf4j-simple	1
+#DEP#org.springframework:spring-context	1
+#DEP#org.hibernate:hibernate-entitymanager	1

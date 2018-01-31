@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.hamcrest:hamcrest-core	1
+#DEP#org.apache.maven:maven-plugin-api	1
+#DEP#com.google.code.google-collections:google-collect	1
+#DEP#org.apache.maven:maven-model	1

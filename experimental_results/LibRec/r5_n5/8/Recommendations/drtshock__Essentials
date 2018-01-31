@@ -1,0 +1,5 @@
+#DEP#org.bukkit:bukkit	1
+#DEP#mysql:mysql-connector-java	1
+#DEP#com.google.guava:guava	1
+#DEP#net.sf.jopt-simple:jopt-simple	1
+#DEP#ninja.leaping.configurate:configurate-gson	1

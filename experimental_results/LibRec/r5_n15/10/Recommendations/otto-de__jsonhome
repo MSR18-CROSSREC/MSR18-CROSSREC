@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#com.sun.jersey:jersey-server	1
+#DEP#com.sun.jersey:jersey-json	1
+#DEP#org.apache.httpcomponents:httpclient	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#ant:ant	1
+#DEP#javax.mail:mail	1
+#DEP#javax.ws.rs:jsr311-api	1
+#DEP#commons-httpclient:commons-httpclient	1

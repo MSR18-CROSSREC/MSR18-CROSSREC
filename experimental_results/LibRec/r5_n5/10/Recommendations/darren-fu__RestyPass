@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:jcl-over-slf4j	1
+#DEP#org.springframework.boot:spring-boot-test	1
+#DEP#org.springframework.boot:spring-boot-autoconfigure	1
+#DEP#org.springframework:spring-test	1

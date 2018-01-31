@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#com.squareup.okhttp:okhttp	1
+#DEP#com.android.support:appcompat-v7	1
+#DEP#com.android.support.test:runner	1

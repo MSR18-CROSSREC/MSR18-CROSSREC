@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.squareup.okhttp3:okhttp	1
+#DEP#org.jsoup:jsoup	1
+#DEP#com.squareup.okhttp3:logging-interceptor	1
+#DEP#org.springframework:spring-webmvc	1

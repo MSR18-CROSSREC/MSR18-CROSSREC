@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.netbeans.api:org-openide-text	1
+#DEP#org.netbeans.api:org-netbeans-api-annotations-common	1
+#DEP#org.netbeans.api:org-openide-windows	1
+#DEP#org.netbeans.api:org-openide-nodes	1

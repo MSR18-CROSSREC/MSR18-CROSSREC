@@ -1,0 +1,5 @@
+#DEP#org.slf4j:slf4j-api	1
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#org.testng:testng	1
+#DEP#mysql:mysql-connector-java	1

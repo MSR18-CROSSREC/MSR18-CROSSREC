@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#commons-collections:commons-collections	1
+#DEP#org.mockito:mockito-all	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.apache.geronimo.specs:geronimo-atinject_1.0_spec	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.ops4j.pax.url:pax-url-aether	1

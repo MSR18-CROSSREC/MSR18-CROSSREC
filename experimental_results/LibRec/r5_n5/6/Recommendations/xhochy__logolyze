@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#commons-logging:commons-logging	1
+#DEP#net.sf.jung:jung-algorithms	1
+#DEP#commons-codec:commons-codec	1

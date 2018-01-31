@@ -1,0 +1,10 @@
+#DEP#commons-io:commons-io	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#log4j:log4j	1
+#DEP#commons-logging:commons-logging	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#junit:junit	1
+#DEP#com.googlecode.playn:playn-core	1
+#DEP#com.google.gwt:gwt-user	1
+#DEP#org.apache.commons:commons-vfs2	1
+#DEP#org.lwjgl.lwjgl:lwjgl_util	1

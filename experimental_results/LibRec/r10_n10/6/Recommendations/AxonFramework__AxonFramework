@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.springframework.boot:spring-boot-starter-web	1
+#DEP#com.fasterxml.jackson.core:com.fasterxml.jackson.core	1
+#DEP#org.flywaydb:org.flywaydb	1
+#DEP#commons-dbcp:commons-dbcp	1
+#DEP#org.liquibase:org.liquibase	1
+#DEP#io.projectreactor:io.projectreactor	1
+#DEP#com.samskivert:com.samskivert	1

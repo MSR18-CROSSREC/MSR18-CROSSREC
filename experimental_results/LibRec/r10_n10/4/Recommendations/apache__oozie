@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#log4j:log4j	1
+#DEP#commons-cli:commons-cli	1
+#DEP#com.google.guava:guava	1
+#DEP#commons-lang:commons-lang	1
+#DEP#javax.servlet.jsp:jsp-api	1
+#DEP#org.apache.hadoop:hadoop-yarn-server-tests	1
+#DEP#org.apache.avro:avro	1
+#DEP#hsqldb:hsqldb	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.apache.camel:camel-core	1
+#DEP#org.apache.camel:camel-spring	1
+#DEP#commons-lang:commons-lang	1
+#DEP#org.springframework:spring-core	1

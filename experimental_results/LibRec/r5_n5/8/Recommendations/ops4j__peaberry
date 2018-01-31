@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.easymock:easymock	1
+#DEP#org.osgi:osgi_R4_compendium	1
+#DEP#org.osgi:osgi_R4_core	1
+#DEP#log4j:log4j	1

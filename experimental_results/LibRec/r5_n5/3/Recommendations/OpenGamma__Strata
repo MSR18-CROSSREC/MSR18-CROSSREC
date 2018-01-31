@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.fasterxml.jackson.datatype:com.fasterxml.jackson.datatype	1
+#DEP#javax.servlet:javax.servlet	1
+#DEP#org.slf4j:org.slf4j	1
+#DEP#org.mockito:org.mockito	1

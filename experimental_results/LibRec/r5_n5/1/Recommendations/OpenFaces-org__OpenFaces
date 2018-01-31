@@ -1,0 +1,5 @@
+#DEP#javax.servlet:servlet-api	1
+#DEP#junit:junit	1
+#DEP#javax.faces:jsf-impl	1
+#DEP#commons-collections:commons-collections	1
+#DEP#com.sun.facelets:jsf-facelets	1

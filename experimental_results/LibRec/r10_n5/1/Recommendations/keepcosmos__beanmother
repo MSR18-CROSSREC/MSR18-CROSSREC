@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.yaml:snakeyaml	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#com.google.guava:guava	1
+#DEP#org.slf4j:slf4j-simple	1
+#DEP#com.fasterxml.jackson.datatype:jackson-datatype-joda	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#com.yammer.dropwizard:dropwizard-client	1
+#DEP#org.axonframework:axon-test	1

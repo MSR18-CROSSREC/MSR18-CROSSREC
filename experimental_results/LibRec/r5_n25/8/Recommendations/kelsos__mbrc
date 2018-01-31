@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.jakewharton.timber:timber	1
+#DEP#com.jakewharton:butterknife	1
+#DEP#io.reactivex:rxandroid	1
+#DEP#com.android.support:appcompat-v7	1

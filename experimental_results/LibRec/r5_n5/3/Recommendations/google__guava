@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#org.easymock:easymock	1
+#DEP#org.eclipse.jetty:jetty-server	1
+#DEP#com.google.truth:truth	1

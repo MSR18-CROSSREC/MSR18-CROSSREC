@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.mockito:mockito-core	1
+#DEP#org.apache.httpcomponents:httpclient	1
+#DEP#org.powermock:powermock-module-junit4	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.powermock:powermock-api-mockito	1
+#DEP#commons-io:commons-io	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#org.slf4j:jcl-over-slf4j	1
+#DEP#joda-time:joda-time	1

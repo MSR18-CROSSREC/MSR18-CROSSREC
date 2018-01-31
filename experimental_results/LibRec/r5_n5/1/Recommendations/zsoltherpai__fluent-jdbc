@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#org.eclipse.persistence:eclipselink	1
+#DEP#org.hsqldb:hsqldb	1
+#DEP#org.hibernate:hibernate-annotations	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.codehaus.plexus:plexus-utils	1
+#DEP#org.apache.maven:maven-plugin-api	1
+#DEP#org.apache.maven:maven-artifact	1
+#DEP#org.apache.maven:maven-core	1
+#DEP#org.codehaus.plexus:plexus-velocity	1
+#DEP#org.codehaus.plexus:plexus-io	1
+#DEP#com.beust:jcommander	1
+#DEP#org.apache.maven:maven-artifact-manager	1
+#DEP#org.codehaus.plexus:plexus-compiler-api	1

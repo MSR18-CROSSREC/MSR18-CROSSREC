@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.springframework.boot:spring-boot-starter-web	1
+#DEP#org.jooq:org.jooq	1
+#DEP#org.jboss.logging:org.jboss.logging	1

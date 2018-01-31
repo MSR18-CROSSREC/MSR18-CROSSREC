@@ -1,0 +1,5 @@
+#DEP#net.sf.saxon:saxon	1
+#DEP#junit:junit	1
+#DEP#xerces:xercesImpl	1
+#DEP#net.sf.saxon:saxon-dom	1
+#DEP#log4j:log4j	1

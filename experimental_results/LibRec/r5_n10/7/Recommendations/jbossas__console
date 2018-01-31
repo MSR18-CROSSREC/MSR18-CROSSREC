@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.google.gwt:gwt-servlet	1
+#DEP#com.google.inject:guice	1
+#DEP#com.google.gwt:gwt-user	1
+#DEP#org.slf4j:slf4j-api	1

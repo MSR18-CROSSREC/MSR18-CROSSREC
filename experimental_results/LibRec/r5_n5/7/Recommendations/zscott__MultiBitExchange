@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.yaml:org.yaml	1
+#DEP#com.h2database:com.h2database	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.jogamp.jogl:jogl-all-main	1
+#DEP#org.apache.lucene:lucene-analyzers-common	1
+#DEP#org.apache.lucene:lucene-queryparser	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.lucene:lucene-core	1
+#DEP#it.unimi.dsi:fastutil	1
+#DEP#org.jogamp.gluegen:gluegen-rt-main	1
+#DEP#org.mortbay.jetty:jetty	1
+#DEP#net.sf.trove4j:net.sf.trove4j	1

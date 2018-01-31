@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.glassfish:javax.json	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#commons-io:commons-io	1
+#DEP#org.glassfish.jersey.core:jersey-common	1

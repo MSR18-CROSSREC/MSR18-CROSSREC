@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.commons:org.apache.commons	1
+#DEP#org.springframework.integration:org.springframework.integration	1
+#DEP#org.freemarker:org.freemarker	1
+#DEP#com.jayway.jsonpath:com.jayway.jsonpath	1
+#DEP#org.mongodb:org.mongodb	1
+#DEP#org.hibernate:org.hibernate	1
+#DEP#org.codehaus.janino:org.codehaus.janino	1
+#DEP#org.springframework.amqp:org.springframework.amqp	1

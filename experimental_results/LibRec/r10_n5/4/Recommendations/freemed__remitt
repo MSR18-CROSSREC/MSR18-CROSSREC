@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#log4j:log4j	1
+#DEP#commons-lang:commons-lang	1
+#DEP#mysql:mysql-connector-java	1
+#DEP#org.mockito:mockito-all	1
+#DEP#javax.mail:javax.mail-api	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#com.mchange:c3p0	1
+#DEP#com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#com.carrotsearch:hppc	1
+#DEP#com.google.guava:guava	1
+#DEP#com.carrotsearch.randomizedtesting:randomizedtesting-runner	1
+#DEP#org.apache.commons:commons-io	1
+#DEP#org.jsoup:jsoup	1
+#DEP#org.timepedia.exporter:gwtexporter	1
+#DEP#org.openrdf.sesame:sesame-model	1
+#DEP#org.openrdf.sesame:sesame-sail-inferencer	1

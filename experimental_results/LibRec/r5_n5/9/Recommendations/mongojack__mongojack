@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#de.flapdoodle.embed:de.flapdoodle.embed.mongo	1
+#DEP#org.mongodb:mongodb-driver	1
+#DEP#org.hamcrest:hamcrest-junit	1
+#DEP#com.google.guava:guava	1

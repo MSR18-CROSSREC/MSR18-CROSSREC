@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.netbeans.api:org-openide-windows	1
+#DEP#org.netbeans.api:org-openide-util-lookup	1
+#DEP#org.netbeans.api:org-openide-filesystems	1
+#DEP#org.netbeans.api:org-netbeans-modules-projectuiapi	1
+#DEP#org.netbeans.api:org-netbeans-modules-options-api	1
+#DEP#org.netbeans.api:org-openide-util	1
+#DEP#org.netbeans.api:org-netbeans-api-annotations-common	1
+#DEP#org.netbeans.api:org-openide-nodes	1
+#DEP#org.netbeans.api:org-openide-text	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#commons-io:commons-io	1
+#DEP#commons-collections:commons-collections	1
+#DEP#log4j:log4j	1
+#DEP#org.hamcrest:org.hamcrest	1
+#DEP#javax.validation:javax.validation	1
+#DEP#commons-beanutils:commons-beanutils	1
+#DEP#javax.servlet:javax.servlet	1
+#DEP#javax.ws.rs:javax.ws.rs	1

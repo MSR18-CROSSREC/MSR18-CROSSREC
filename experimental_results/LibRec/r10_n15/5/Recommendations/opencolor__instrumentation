@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#net.java.dev.jna:jna	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.easymock:easymock	1
+#DEP#org.osgi:osgi_R4_core	1
+#DEP#org.netbeans.api:org-openide-util-lookup	1
+#DEP#log4j:log4j	1
+#DEP#org.netbeans.api:org-openide-util	1
+#DEP#com.google.guava:guava	1
+#DEP#org.netbeans.api:org-openide-windows	1

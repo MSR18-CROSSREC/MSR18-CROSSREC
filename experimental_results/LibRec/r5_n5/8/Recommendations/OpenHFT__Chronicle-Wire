@@ -1,0 +1,5 @@
+#DEP#commons-io:commons-io	1
+#DEP#junit:junit	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.xerial.snappy:snappy-java	1
+#DEP#com.google.guava:guava	1

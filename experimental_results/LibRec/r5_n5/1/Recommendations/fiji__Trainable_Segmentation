@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.apache.commons:commons-math3	1
+#DEP#org.apache.lucene:lucene-analyzers-common	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#commons-codec:commons-codec	1

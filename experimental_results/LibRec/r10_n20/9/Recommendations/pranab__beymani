@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#commons-io:commons-io	1
+#DEP#org.apache.hadoop:hadoop-core	1
+#DEP#log4j:log4j	1
+#DEP#commons-logging:commons-logging	1
+#DEP#commons-cli:commons-cli	1
+#DEP#org.mortbay.jetty:jetty	1
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1

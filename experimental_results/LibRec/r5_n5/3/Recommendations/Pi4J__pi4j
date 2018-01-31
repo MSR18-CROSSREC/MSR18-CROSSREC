@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.jmockit:jmockit	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.httpcomponents:httpclient	1
+#DEP#org.apache.httpcomponents:httpcore	1

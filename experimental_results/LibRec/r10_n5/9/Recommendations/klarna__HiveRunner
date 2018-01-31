@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.hive:hive-exec	1
+#DEP#org.apache.hive:hive-metastore	1
+#DEP#org.apache.hive:hive-serde	1
+#DEP#com.google.http-client:google-http-client-jdo	1
+#DEP#com.google.code.findbugs:jsr305	1
+#DEP#org.datanucleus:datanucleus-api-jdo	1
+#DEP#com.google.appengine:appengine-testing	1
+#DEP#com.fasterxml.jackson.core:jackson-core	1

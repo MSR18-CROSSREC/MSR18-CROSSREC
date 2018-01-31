@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.apache.httpcomponents:httpclient	1
+#DEP#org.apache.httpcomponents:httpasyncclient	1
+#DEP#org.javassist:javassist	1
+#DEP#com.google.guava:guava	1
+#DEP#com.google.code.gson:gson	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.json:json	1
+#DEP#com.threerings:narya	1
+#DEP#com.github.scribejava:scribejava-httpclient-ahc	1

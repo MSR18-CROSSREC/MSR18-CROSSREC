@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.osgi:org.osgi	1
+#DEP#org.slf4j:org.slf4j	1
+#DEP#org.seleniumhq.selenium:org.seleniumhq.selenium	1
+#DEP#org.apache.geronimo.specs:org.apache.geronimo.specs	1

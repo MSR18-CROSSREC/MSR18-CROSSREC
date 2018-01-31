@@ -1,0 +1,5 @@
+#DEP#org.springframework.security:spring-security-web	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#junit:junit	1
+#DEP#javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api	1
+#DEP#org.springframework.security:spring-security-config	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.codehaus.plexus:org.codehaus.plexus	1
+#DEP#org.apache.maven.plugin-tools:org.apache.maven.plugin-tools	1
+#DEP#org.mockito:mockito-core	1
+#DEP#javax.inject:javax.inject	1
+#DEP#org.apache.maven:org.apache.maven	1
+#DEP#org.hamcrest:hamcrest-core	1
+#DEP#ch.qos.logback:ch.qos.logback	1
+#DEP#org.slf4j:org.slf4j	1

@@ -1,0 +1,5 @@
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.testng:testng	1
+#DEP#com.jcraft:jzlib	1
+#DEP#org.apache.tomcat:jasper	1
+#DEP#commons-codec:commons-codec	1

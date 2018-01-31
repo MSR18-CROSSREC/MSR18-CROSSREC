@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#wsdl4j:wsdl4j	1
+#DEP#org.hibernate:org.hibernate	1
+#DEP#ch.qos.logback:ch.qos.logback	1

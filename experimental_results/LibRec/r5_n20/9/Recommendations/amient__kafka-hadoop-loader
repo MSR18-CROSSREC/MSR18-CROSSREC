@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1
+#DEP#org.codehaus.jackson:jackson-core-asl	1
+#DEP#commons-io:commons-io	1
+#DEP#org.slf4j:slf4j-api	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.apache.xmlrpc:xmlrpc-common	1
+#DEP#org.codehaus.jettison:jettison	1
+#DEP#xerces:xercesImpl	1
+#DEP#javassist:javassist	1
+#DEP#xml-apis:xml-apis	1
+#DEP#org.apache.xmlrpc:xmlrpc-client	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.hibernate:hibernate-core	1
+#DEP#org.apache.ws.commons.util:ws-commons-util	1

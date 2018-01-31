@@ -1,0 +1,10 @@
+#DEP#org.apache.hadoop:hadoop-client	1
+#DEP#junit:junit	1
+#DEP#org.scalatest:scalatest_2.11	1
+#DEP#org.apache.hbase:hbase-client	1
+#DEP#com.google.guava:guava	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.spark:spark-sql_2.11	1
+#DEP#org.apache.spark:spark-core_2.11	1
+#DEP#org.scala-lang:scala-library	1
+#DEP#com.uber.hoodie:hoodie-hive	1

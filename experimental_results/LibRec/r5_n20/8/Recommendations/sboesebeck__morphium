@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.openjdk.jmh:jmh-generator-annprocess	1
+#DEP#org.openjdk.jmh:jmh-core	1
+#DEP#com.googlecode.json-simple:json-simple	1
+#DEP#org.slf4j:slf4j-api	1

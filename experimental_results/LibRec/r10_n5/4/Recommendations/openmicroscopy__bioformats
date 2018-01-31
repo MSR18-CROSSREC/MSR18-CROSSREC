@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.apache.commons:commons-math3	1
+#DEP#jfree:jfreechart	1
+#DEP#com.jgoodies:jgoodies-looks	1
+#DEP#edu.ucar:opendap	1
+#DEP#org.springframework:spring-webmvc	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.jdom:jdom	1
+#DEP#edu.ucar:netcdf	1
+#DEP#com.jgoodies:jgoodies-forms	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.mortbay.jetty:jetty	1
+#DEP#net.java.dev.jets3t:jets3t	1
+#DEP#commons-httpclient:commons-httpclient	1

@@ -1,0 +1,10 @@
+#DEP#com.android.support:appcompat-v7	1
+#DEP#junit:junit	1
+#DEP#com.android.support:design	1
+#DEP#org.springframework:spring-core	1
+#DEP#org.aspectj:aspectjrt	1
+#DEP#org.jboss.resteasy:resteasy-spring	1
+#DEP#org.springframework:spring-beans	1
+#DEP#commons-lang:commons-lang	1
+#DEP#org.mockito:mockito-all	1
+#DEP#com.google.android.gms:play-services-ads	1

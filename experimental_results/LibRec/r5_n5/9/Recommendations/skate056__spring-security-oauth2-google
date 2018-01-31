@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#org.springframework.security.oauth:spring-security-oauth2	1
+#DEP#org.apache.commons:commons-lang3	1

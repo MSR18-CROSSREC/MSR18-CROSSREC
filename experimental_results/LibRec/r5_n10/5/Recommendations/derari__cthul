@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.codehaus.plexus:org.codehaus.plexus	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.apache.maven:org.apache.maven	1
+#DEP#commons-io:commons-io	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.geotools:gt-wms	1
+#DEP#com.google.guava:guava	1
+#DEP#org.geotools:gt-main	1
+#DEP#org.geotools:gt-render	1

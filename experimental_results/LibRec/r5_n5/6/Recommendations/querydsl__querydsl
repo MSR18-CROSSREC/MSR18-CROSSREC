@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#commons-io:commons-io	1
+#DEP#org.springframework:spring-jdbc	1
+#DEP#org.springframework:spring-test	1
+#DEP#org.hibernate:hibernate-validator	1

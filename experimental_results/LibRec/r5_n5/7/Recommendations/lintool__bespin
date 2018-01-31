@@ -1,0 +1,5 @@
+#DEP#org.apache.hadoop:hadoop-client	1
+#DEP#junit:junit	1
+#DEP#org.scala-lang:scala-library	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.hbase:hbase-client	1

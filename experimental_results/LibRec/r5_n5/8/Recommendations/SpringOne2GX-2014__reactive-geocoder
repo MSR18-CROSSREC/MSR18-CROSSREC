@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#io.dropwizard.metrics:io.dropwizard.metrics	1
+#DEP#org.hornetq:org.hornetq	1
+#DEP#org.springframework.cloud:org.springframework.cloud	1
+#DEP#org.springframework.data:org.springframework.data	1

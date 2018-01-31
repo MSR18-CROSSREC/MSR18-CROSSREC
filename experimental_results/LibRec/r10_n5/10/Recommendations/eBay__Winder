@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#commons-io:commons-io	1
+#DEP#log4j:log4j	1
+#DEP#commons-lang:commons-lang	1
+#DEP#com.mchange:c3p0	1
+#DEP#mysql:mysql-connector-java	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.apache.velocity:velocity	1
+#DEP#com.google.guava:guava	1
+#DEP#net.sourceforge.htmlunit:htmlunit	1

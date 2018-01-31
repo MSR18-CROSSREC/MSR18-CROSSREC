@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.crashub:org.crashub	1
+#DEP#ch.qos.logback:ch.qos.logback	1
+#DEP#org.glassfish.jersey.containers:org.glassfish.jersey.containers	1
+#DEP#org.springframework.integration:org.springframework.integration	1

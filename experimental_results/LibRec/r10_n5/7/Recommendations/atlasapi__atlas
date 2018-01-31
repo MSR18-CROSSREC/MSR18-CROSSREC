@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#commons-lang:commons-lang	1
+#DEP#commons-io:commons-io	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.hadoop:hadoop-client	1
+#DEP#org.apache.pig:pig	1
+#DEP#c3p0:c3p0	1
+#DEP#info.bliki.wiki:bliki-core	1
+#DEP#com.hp.hpl.jena:jena	1
+#DEP#org.apache.commons:commons-io	1

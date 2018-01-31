@@ -1,0 +1,5 @@
+#DEP#net.sf.jasperreports:jasperreports	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#commons-logging:commons-logging	1
+#DEP#org.hibernate:hibernate-core	1
+#DEP#commons-dbcp:commons-dbcp	1

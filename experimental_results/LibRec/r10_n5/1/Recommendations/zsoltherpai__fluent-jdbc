@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#org.eclipse.persistence:eclipselink	1
+#DEP#org.hsqldb:hsqldb	1
+#DEP#org.hibernate:hibernate-annotations	1
+#DEP#log4j:log4j	1
+#DEP#cglib:cglib	1
+#DEP#javax.inject:javax.inject	1
+#DEP#net.sf.ehcache:ehcache-core	1
+#DEP#org.springframework:spring-test	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.hive:hive-exec	1
+#DEP#org.apache.hive:hive-metastore	1
+#DEP#org.apache.hive:hive-serde	1

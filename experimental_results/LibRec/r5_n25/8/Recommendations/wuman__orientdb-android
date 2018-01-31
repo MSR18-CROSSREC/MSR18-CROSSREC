@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#net.java.dev.jna:jna	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api	1
+#DEP#org.easymock:easymock	1

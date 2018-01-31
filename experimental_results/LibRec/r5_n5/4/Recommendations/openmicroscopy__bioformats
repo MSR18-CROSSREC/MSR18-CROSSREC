@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.apache.commons:commons-math3	1
+#DEP#jfree:jfreechart	1
+#DEP#com.jgoodies:jgoodies-looks	1
+#DEP#edu.ucar:opendap	1

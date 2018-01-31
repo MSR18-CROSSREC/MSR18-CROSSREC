@@ -1,0 +1,5 @@
+#DEP#com.j256.ormlite:ormlite-android	1
+#DEP#junit:junit	1
+#DEP#com.google.android:android	1
+#DEP#com.j256.ormlite:ormlite-core	1
+#DEP#com.squareup:otto	1

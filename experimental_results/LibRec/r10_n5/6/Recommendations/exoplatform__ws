@@ -1,0 +1,10 @@
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.exoplatform.jcr:exo.jcr.component.ext	1
+#DEP#org.exoplatform.jcr:exo.jcr.component.core	1
+#DEP#org.hsqldb:hsqldb	1
+#DEP#org.exoplatform.kernel:exo.kernel.container	1
+#DEP#junit:junit	1
+#DEP#org.exoplatform.portal:exo.portal.component.resources	1
+#DEP#org.exoplatform.portal:exo.portal.webui.eXo	1
+#DEP#org.exoplatform.portal:exo.portal.component.identity	1
+#DEP#org.exoplatform.ws:exo.ws.rest.core	1

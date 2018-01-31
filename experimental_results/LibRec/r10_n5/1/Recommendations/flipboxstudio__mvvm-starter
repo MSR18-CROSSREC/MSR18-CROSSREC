@@ -1,0 +1,10 @@
+#DEP#com.android.support:design	1
+#DEP#com.android.support:recyclerview-v7	1
+#DEP#junit:junit	1
+#DEP#com.android.support:appcompat-v7	1
+#DEP#io.reactivex.rxjava2:rxjava	1
+#DEP#com.google.android.gms:play-services-location	1
+#DEP#pub.devrel:easypermissions	1
+#DEP#com.squareup.leakcanary:leakcanary-android	1
+#DEP#com.squareup.leakcanary:leakcanary-android-no-op	1
+#DEP#org.powermock:powermock-module-junit4	1

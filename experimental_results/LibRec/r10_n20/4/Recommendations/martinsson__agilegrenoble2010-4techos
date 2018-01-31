@@ -1,0 +1,10 @@
+#DEP#org.slf4j:slf4j-api	1
+#DEP#com.google.guava:guava	1
+#DEP#commons-lang:commons-lang	1
+#DEP#commons-codec:commons-codec	1
+#DEP#org.mockito:mockito-all	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.springframework:spring-test	1
+#DEP#joda-time:joda-time	1
+#DEP#com.google.code.gson:gson	1
+#DEP#ch.qos.logback:logback-classic	1

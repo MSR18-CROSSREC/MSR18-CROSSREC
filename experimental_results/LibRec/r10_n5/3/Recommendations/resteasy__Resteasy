@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.assertj:assertj-core	1
+#DEP#log4j:log4j	1
+#DEP#org.jboss.resteasy:resteasy-jaxrs	1
+#DEP#org.eclipse.jetty:jetty-servlet	1
+#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.1-api	1
+#DEP#org.jboss.logging:jboss-logging-annotations	1

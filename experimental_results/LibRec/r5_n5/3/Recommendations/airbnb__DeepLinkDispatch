@@ -1,0 +1,5 @@
+#DEP#com.squareup:javapoet	1
+#DEP#junit:junit	1
+#DEP#org.robolectric:robolectric	1
+#DEP#com.google.testing.compile:compile-testing	1
+#DEP#com.android.support:support-annotations	1

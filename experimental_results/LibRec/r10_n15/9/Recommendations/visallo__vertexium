@@ -1,0 +1,10 @@
+#DEP#org.mockito:mockito-all	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#org.mockito:mockito-core	1
+#DEP#joda-time:joda-time	1
+#DEP#org.springframework:spring-context	1
+#DEP#commons-lang:commons-lang	1
+#DEP#org.springframework:spring-test	1
+#DEP#log4j:log4j	1
+#DEP#javax.servlet:servlet-api	1

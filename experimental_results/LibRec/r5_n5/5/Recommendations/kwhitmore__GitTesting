@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#joda-time:joda-time	1
+#DEP#org.tmatesoft.svnkit:svnkit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#commons-lang:commons-lang	1

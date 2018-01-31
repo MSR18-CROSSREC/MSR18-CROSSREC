@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.springframework.social:spring-social-web	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.springframework.security:spring-security-web	1
+#DEP#org.springframework:spring-context	1

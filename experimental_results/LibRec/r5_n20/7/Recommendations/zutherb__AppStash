@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.spockframework:spock-core	1
+#DEP#org.codehaus.groovy:groovy-all	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1

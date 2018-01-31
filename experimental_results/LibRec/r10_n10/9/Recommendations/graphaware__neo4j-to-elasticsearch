@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#org.apache.tomcat:org.apache.tomcat	1
+#DEP#org.jolokia:org.jolokia	1
+#DEP#javax.cache:javax.cache	1
+#DEP#nz.net.ultraq.thymeleaf:nz.net.ultraq.thymeleaf	1
+#DEP#com.h2database:com.h2database	1
+#DEP#org.glassfish.jersey.ext:org.glassfish.jersey.ext	1
+#DEP#redis.clients:redis.clients	1
+#DEP#org.glassfish:org.glassfish	1

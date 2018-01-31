@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.osgi:org.osgi	1
+#DEP#com.thoughtworks.qdox:qdox	1
+#DEP#commons-cli:commons-cli	1
+#DEP#ch.qos.logback:logback-classic	1

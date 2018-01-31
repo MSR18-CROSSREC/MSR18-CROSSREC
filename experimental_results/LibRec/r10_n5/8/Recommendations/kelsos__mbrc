@@ -1,0 +1,10 @@
+#DEP#org.jetbrains.kotlin:kotlin-stdlib	1
+#DEP#io.reactivex:rxjava	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.threeten:threetenbp	1
+#DEP#org.springframework:spring-core	1
+#DEP#org.apache.openwebbeans:openwebbeans-se	1
+#DEP#org.springframework:spring-webmvc	1
+#DEP#org.springframework:spring-beans	1
+#DEP#io.projectreactor:reactor-core	1
+#DEP#de.schauderhaft.degraph:degraph-check	1

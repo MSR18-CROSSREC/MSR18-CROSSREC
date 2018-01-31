@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#log4j:log4j	1
+#DEP#taglibs:standard	1
+#DEP#stax:stax-api	1
+#DEP#taglibs:request	1
+#DEP#xml-resolver:xml-resolver	1
+#DEP#org.springframework:spring-webmvc	1
+#DEP#org.springframework:spring-beans	1
+#DEP#org.springframework:spring-test	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.springframework:spring-webmvc	1
+#DEP#org.springframework:spring-test	1
+#DEP#jstl:jstl	1
+#DEP#org.springframework:spring-web	1

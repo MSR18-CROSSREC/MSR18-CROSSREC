@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.netbeans.api:org-openide-windows	1
+#DEP#org.netbeans.api:org-openide-util-lookup	1
+#DEP#org.netbeans.api:org-openide-awt	1
+#DEP#org.netbeans.api:org-openide-util	1

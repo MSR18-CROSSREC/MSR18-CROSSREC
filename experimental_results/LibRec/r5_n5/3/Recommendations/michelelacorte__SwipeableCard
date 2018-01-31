@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.intellij:annotations	1
+#DEP#com.android.support:support-annotations	1
+#DEP#com.android.support:appcompat-v7	1
+#DEP#com.android.support:design	1

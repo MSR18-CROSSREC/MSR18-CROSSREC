@@ -1,0 +1,5 @@
+#DEP#com.squareup.dagger:dagger-compiler	1
+#DEP#org.mockito:mockito-all	1
+#DEP#com.squareup.dagger:dagger	1
+#DEP#junit:junit	1
+#DEP#com.fasterxml.jackson.core:jackson-core	1

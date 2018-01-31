@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.glassfish.jersey.core:jersey-common	1
+#DEP#org.glassfish.jersey.media:jersey-media-json-jackson	1

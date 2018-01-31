@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.eclipse.jetty:jetty-webapp	1
+#DEP#org.eclipse.jetty:jetty-annotations	1
+#DEP#org.eclipse.jetty:jetty-plus	1

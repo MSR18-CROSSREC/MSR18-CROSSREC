@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#log4j:log4j	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#javax.faces:jsf-api	1
+#DEP#org.jboss.seam.faces:seam-faces	1
+#DEP#commons-httpclient:commons-httpclient	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#org.openid4java:openid4java-consumer	1
+#DEP#commons-logging:commons-logging	1

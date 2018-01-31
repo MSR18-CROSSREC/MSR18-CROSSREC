@@ -1,0 +1,5 @@
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#javax.servlet:javax.servlet-api	1
+#DEP#io.dropwizard.metrics:metrics-core	1
+#DEP#io.dropwizard.metrics:metrics-jvm	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.simpleframework:simple-xml	1
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1
+#DEP#org.mockito:mockito-core	1
+#DEP#log4j:log4j	1
+#DEP#c3p0:c3p0	1
+#DEP#net.sourceforge.htmlunit:htmlunit	1
+#DEP#org.powermock:powermock-api-mockito	1
+#DEP#com.sun.xml.bind:jaxb-impl	1
+#DEP#commons-lang:commons-lang	1

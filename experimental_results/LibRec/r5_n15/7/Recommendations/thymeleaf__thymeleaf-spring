@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.springframework:spring-test	1
+#DEP#org.springframework:spring-aop	1
+#DEP#org.springframework:spring-core	1
+#DEP#org.springframework:spring-jdbc	1

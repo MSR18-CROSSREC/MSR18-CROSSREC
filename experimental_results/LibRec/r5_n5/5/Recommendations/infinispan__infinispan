@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#log4j:log4j	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.openjdk.jmh:jmh-generator-annprocess	1
+#DEP#org.powermock:powermock-api-mockito	1

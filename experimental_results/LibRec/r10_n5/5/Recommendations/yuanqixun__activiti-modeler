@@ -1,0 +1,10 @@
+#DEP#log4j:log4j	1
+#DEP#junit:junit	1
+#DEP#javax.servlet:servlet-api	1
+#DEP#org.mockito:mockito-all	1
+#DEP#org.slf4j:slf4j-log4j12	1
+#DEP#com.yahoo.platform.yui:yuicompressor	1
+#DEP#rhino:js	1
+#DEP#pentaho:pentaho-platform-core	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.hamcrest:hamcrest-all	1

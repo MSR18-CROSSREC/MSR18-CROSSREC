@@ -1,0 +1,5 @@
+#DEP#com.nineoldandroids:library	1
+#DEP#com.android.support:support-v4	1
+#DEP#junit:junit	1
+#DEP#com.actionbarsherlock:actionbarsherlock	1
+#DEP#com.android.support:appcompat-v7	1

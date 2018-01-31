@@ -1,0 +1,5 @@
+#DEP#log4j:log4j	1
+#DEP#junit:junit	1
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1
+#DEP#org.apache.hadoop:hadoop-core	1
+#DEP#redis.clients:jedis	1

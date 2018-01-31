@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.osgi:org.osgi	1
+#DEP#org.hamcrest:org.hamcrest	1
+#DEP#org.testng:org.testng	1
+#DEP#org.hibernate.javax.persistence:hibernate-jpa-2.0-api	1

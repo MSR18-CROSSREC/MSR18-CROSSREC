@@ -1,0 +1,10 @@
+#DEP#javax.servlet:servlet-api	1
+#DEP#com.google.appengine:appengine-api-1.0-sdk	1
+#DEP#com.google.appengine:appengine-testing	1
+#DEP#junit:junit	1
+#DEP#com.google.appengine:appengine-api-stubs	1
+#DEP#com.google.appengine:appengine-api-labs	1
+#DEP#com.google.guava:guava	1
+#DEP#com.google.appengine:appengine-tools-sdk	1
+#DEP#org.apache.commons:commons-lang3	1
+#DEP#javax.jdo:jdo2-api	1

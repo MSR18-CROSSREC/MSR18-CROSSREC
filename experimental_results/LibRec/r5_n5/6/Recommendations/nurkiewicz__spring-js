@@ -1,0 +1,5 @@
+#DEP#org.springframework:spring-tx	1
+#DEP#org.springframework:spring-core	1
+#DEP#org.springframework:spring-expression	1
+#DEP#org.springframework:spring-context	1
+#DEP#org.springframework:spring-context-support	1

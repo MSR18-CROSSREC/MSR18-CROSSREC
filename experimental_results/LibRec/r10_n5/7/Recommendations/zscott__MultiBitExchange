@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#com.fasterxml.jackson.core:jackson-databind	1
+#DEP#org.yaml:org.yaml	1
+#DEP#com.h2database:com.h2database	1
+#DEP#mysql:mysql-connector-java	1
+#DEP#org.glassfish:org.glassfish	1
+#DEP#org.apache.httpcomponents:org.apache.httpcomponents	1
+#DEP#io.projectreactor.spring:io.projectreactor.spring	1
+#DEP#org.apache.activemq:org.apache.activemq	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.apache.cxf:cxf-rt-frontend-jaxws	1
+#DEP#org.springframework:spring-context	1
+#DEP#org.hibernate:hibernate-validator	1
+#DEP#org.springframework.security:spring-security-web	1

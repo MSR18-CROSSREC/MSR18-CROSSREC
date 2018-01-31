@@ -1,0 +1,5 @@
+#DEP#io.undertow:undertow-servlet	1
+#DEP#log4j:log4j	1
+#DEP#org.codehaus.jackson:jackson-mapper-asl	1
+#DEP#org.eclipse.jetty:jetty-annotations	1
+#DEP#org.codehaus.jackson:jackson-core-asl	1

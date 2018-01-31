@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#com.thoughtworks.xstream:xstream	1
+#DEP#log4j:log4j	1
+#DEP#com.google.gwt:gwt-user	1
+#DEP#org.apache.httpcomponents:httpclient	1

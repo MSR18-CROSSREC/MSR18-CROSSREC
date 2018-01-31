@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#org.apache.xmlrpc:xmlrpc-common	1
+#DEP#org.codehaus.jettison:jettison	1
+#DEP#xerces:xercesImpl	1
+#DEP#javassist:javassist	1

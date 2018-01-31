@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#ch.qos.logback:logback-classic	1
+#DEP#commons-lang:commons-lang	1
+#DEP#commons-collections:commons-collections	1
+#DEP#commons-dbcp:commons-dbcp	1

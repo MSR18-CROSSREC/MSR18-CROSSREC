@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#commons-lang:commons-lang	1
+#DEP#commons-io:commons-io	1
+#DEP#org.apache.avro:avro-ipc	1
+#DEP#com.google.guava:guava	1

@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#commons-lang:commons-lang	1
+#DEP#com.google.guava:guava	1
+#DEP#org.apache.hbase:hbase-server	1
+#DEP#com.google.protobuf:protobuf-java	1
+#DEP#commons-logging:commons-logging	1
+#DEP#org.apache.hbase:hbase-client	1
+#DEP#org.hamcrest:hamcrest-library	1
+#DEP#org.mockito:mockito-all	1

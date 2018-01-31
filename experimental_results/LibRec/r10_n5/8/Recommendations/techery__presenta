@@ -1,0 +1,10 @@
+#DEP#com.jakewharton.timber:timber	1
+#DEP#io.reactivex:rxandroid	1
+#DEP#com.jakewharton:butterknife	1
+#DEP#org.glassfish:javax.annotation	1
+#DEP#com.squareup.flow:flow	1
+#DEP#com.squareup.retrofit:retrofit	1
+#DEP#com.google.dagger:dagger-compiler	1
+#DEP#com.squareup.dagger:dagger	1
+#DEP#junit:junit	1
+#DEP#javax.annotation:jsr250-api	1

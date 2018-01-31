@@ -1,0 +1,5 @@
+#DEP#io.netty:netty-transport	1
+#DEP#junit:junit	1
+#DEP#io.netty:netty-handler	1
+#DEP#org.slf4j:jcl-over-slf4j	1
+#DEP#org.slf4j:slf4j-api	1

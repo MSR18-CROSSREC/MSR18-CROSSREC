@@ -1,0 +1,5 @@
+#DEP#com.google.android:android	1
+#DEP#com.google.android:support-v4	1
+#DEP#com.squareup.dagger:dagger-compiler	1
+#DEP#com.squareup.dagger:dagger	1
+#DEP#com.nineoldandroids:library	1

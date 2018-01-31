@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#net.java.dev.jna:jna-platform	1
+#DEP#org.osgi:org.osgi.core	1
+#DEP#net.java.dev.jna:jna	1
+#DEP#org.easymock:easymock	1

@@ -1,0 +1,5 @@
+#DEP#joda-time:joda-time	1
+#DEP#org.springframework.boot:spring-boot-starter-data-jpa	1
+#DEP#junit:junit	1
+#DEP#org.springframework.boot:spring-boot-starter-web	1
+#DEP#org.apache.commons:commons-lang3	1

@@ -1,0 +1,5 @@
+#DEP#junit:junit	1
+#DEP#commons-io:commons-io	1
+#DEP#commons-lang:commons-lang	1
+#DEP#org.apache.maven:maven-plugin-api	1
+#DEP#org.codehaus.plexus:plexus-utils	1

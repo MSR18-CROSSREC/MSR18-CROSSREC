@@ -1,0 +1,10 @@
+#DEP#junit:junit	1
+#DEP#org.slf4j:slf4j-api	1
+#DEP#org.springframework.boot:spring-boot-starter-web	1
+#DEP#org.jooq:org.jooq	1
+#DEP#org.jboss.logging:org.jboss.logging	1
+#DEP#org.springframework.retry:org.springframework.retry	1
+#DEP#wsdl4j:wsdl4j	1
+#DEP#org.freemarker:org.freemarker	1
+#DEP#org.apache.tomcat.embed:org.apache.tomcat.embed	1
+#DEP#com.samskivert:com.samskivert	1
