@@ -1,6 +1,6 @@
 This repository contains the source code implementation of CrossRec, the dataset as well as the experimental results for the following paper:
 
-"A collaborative-filtering approach to provide OSS developers with third-party library recommendations"
+<b>"A collaborative-filtering approach to provide OSS developers with third-party library recommendations"</b>
 
 submitted to the 15th International Conference on Mining Software Repositories (MSR 2018)
 
@@ -10,9 +10,9 @@ CrossRec has been evaluated by considering different quality metrics and a datas
 
 There are the following folders:
 
-1. experimental\_results contains all the results obtained from the experiments with LibRec and CrossRec.
+1. <b>experimental\_results</b> contains all the results obtained from the experiments with LibRec and CrossRec.
 
-2. tool: Following the instruction provided in the folder, you can setup and run the source code using the dataset mentioned in the paper.
+2. <b>tool</b>: Following the instruction provided in the folder, you can setup and run the source code using the dataset mentioned in the paper.
 
 
 
