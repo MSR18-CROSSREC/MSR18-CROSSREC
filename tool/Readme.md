@@ -4,6 +4,6 @@ To play with runner on the set of 1.200 GitHub projects mentioned in the paper, 
 ```
 mvn exec:java -Dexec.mainClass="conferences.msr2018.CrossRec.Runner"
 ```
-The experimental results for LibRec can be found in the following folder: https://github.com/MSR18-CROSSREC/MSR18-CROSSREC/tree/master/experimental\_results/LibRec
+The experimental results for LibRec can be found in the following folder: https://github.com/MSR18-CROSSREC/MSR18-CROSSREC/tree/master/experimental_results/LibRec
 
 
