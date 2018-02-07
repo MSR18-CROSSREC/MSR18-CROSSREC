@@ -1,5 +1,5 @@
 		int trainingStartPos1 = 121;
-		int trainingEndPos1 = 1080;
+		int trainingEndPos1 = 1200;
 		int trainingStartPos2 = 0;
 		int trainingEndPos2 = 0;
 				
