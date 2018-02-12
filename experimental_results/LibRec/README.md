@@ -1,1 +1,1 @@
-This folder contains the experimental results for LibRec with different configurations concerning the number of neighbour project used in the recommendation phase (n) and the number of recommended libraries (r). Each sub-folder stores the 10-fold cross validation results for a combination of n and r.
+This folder contains the experimental results for LibRec with different configurations concerning the number of neighbour project used in the recommendation phase (n) and the number of recommended libraries (r).
